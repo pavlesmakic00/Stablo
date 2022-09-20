@@ -1,0 +1,7 @@
+ulica 5
+kuca 10
+auto 5
+voda 100
+vatra 25
+vazduh 40
+korona 14
